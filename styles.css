@@ -95,7 +95,7 @@ hr {
 
 .navigation .link {
     color: white;
-    margin:0rem;
+    display:inline;
 }
 
 .navigation .link-active {
@@ -113,6 +113,7 @@ hr {
     max-width: 350px;
     display: block;
     margin: auto;
+    width: 100%;
 }
 
 .hero .hero-heading {
@@ -126,7 +127,7 @@ hr {
 }
 
 .hero-blog {
-    padding: 2.5rem;
+    padding: 2.5rem 0rem;
 }
 
 
@@ -166,7 +167,7 @@ hr {
 
 .footer .link {
     color: white;
-    margin:0rem;
+    display:inline;
 }
 
 .footer ul {
