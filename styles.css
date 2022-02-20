@@ -173,3 +173,9 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+@media  screen and (max-width:500px) {
+    nav .link {
+        padding: 0;
+    }
+}
